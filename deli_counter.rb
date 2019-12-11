@@ -5,6 +5,6 @@ def line(array)
     puts "This line is currently empty."
   else
     message = "The line is currently: "
-    array.each_
+    array.each_with_index do
   
   
