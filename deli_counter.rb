@@ -9,5 +9,9 @@ def line(array)
       message += "#{index + 1}. #{name} "
     end
     puts message.rstrip
+  end
+end
+
+
   
   
